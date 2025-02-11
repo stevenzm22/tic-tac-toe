@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+
+#contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#contenedorMayor{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 400px;
+  background-color: azure;
+}
+
+.cuadro{
+width: 100px;
+height: 100px;
+ 
+border: 2px solid #181717;
+  
+
+}
