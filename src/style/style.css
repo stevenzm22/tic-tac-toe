@@ -2,9 +2,16 @@ body{
     background-color: aquamarine;
 }
 
+#contenedorDeResultados{
+    align-items: center;
+    text-align: center;
+}
+
+
 #contenedor{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 
@@ -31,9 +38,19 @@ body{
      
  }
 
- #reiniciar{
-    display: flex;
+ #btnReiniciar{
     justify-content: center;
     align-items: center;
-    
+    text-align: center;
+  
  }
+
+ #reiniciar{
+width: 70px;
+    height: 30px;
+   
+ }
+
+.cuadro{
+    font-size: 50px;
+}
