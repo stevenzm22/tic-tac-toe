@@ -1,0 +1,2 @@
+mi codigo se basa en un juego llamado tic tac toe  donde hice un  el escenarios luego le meti estilo y un poco de funcionalidad para jugar 
+tienen 2 modos de juego, con la maquina y el jvsj me faltaron varias validaciones para hacer el juego mejor pero se puede jugar 
