@@ -1,0 +1,56 @@
+body{
+   
+    background: linear-gradient(90deg, blue, rgb(231, 16, 52));
+}
+#contenedorDeResultados{
+    align-items: center;
+    text-align: center;
+}
+
+
+#contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#contenedorMayor{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 320px;
+   /* background-color: azure; */
+     row-gap: 5px;
+      gap: 5px;
+}
+
+.cuadro{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #181717;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+     
+ }
+
+ #btnReiniciar{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+ }
+
+ #reiniciar{
+width: 70px;
+    height: 30px;
+   
+ }
+
+.cuadro{
+    font-size: 50px;
+    background-color: azure; 
+}
